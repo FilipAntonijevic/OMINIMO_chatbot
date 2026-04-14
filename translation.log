@@ -1,0 +1,82 @@
+nohup: ignoring input
+Starting PDF Translation with Google Translate
+This will take approximately 5-10 minutes...
+
+
+======================================================================
+TRANSLATING: MTPL Product Information
+======================================================================
+Total pages: 1
+
+Page 1/1... ✓ (4679 chars)
+
+✓ SAVED: data/MTPL_Product_Info_EN.txt (4,694 chars)
+  → 1 pages translated
+
+======================================================================
+TRANSLATING: User Regulations
+======================================================================
+Total pages: 27
+
+Page 1/27... ✓ (5140 chars)
+Page 2/27... ✓ (6167 chars)
+Page 3/27... ✓ (6581 chars)
+Page 4/27... ✓ (6275 chars)
+Page 5/27... ✓ (6577 chars)
+Page 6/27... ✓ (6057 chars)
+Page 7/27... ✓ (5748 chars)
+Page 8/27... ✓ (6099 chars)
+Page 9/27... ✓ (6043 chars)
+Page 10/27... ✓ (5762 chars)
+Page 11/27... ✓ (6553 chars)
+Page 12/27... ✓ (5827 chars)
+Page 13/27... ✓ (6246 chars)
+Page 14/27... ✓ (5523 chars)
+Page 15/27... ✓ (5772 chars)
+Page 16/27... ✓ (6477 chars)
+Page 17/27... ✓ (314 chars)
+Page 18/27... ✓ (4473 chars)
+Page 19/27... ✓ (4881 chars)
+Page 20/27... ✓ (5648 chars)
+Page 21/27... ✓ (6027 chars)
+Page 22/27... ✓ (6484 chars)
+Page 23/27... ✓ (5915 chars)
+Page 24/27... ✓ (5396 chars)
+Page 25/27... ✓ (5620 chars)
+Page 26/27... ✓ (6220 chars)
+Page 27/27... ✓ (3719 chars)
+
+✓ SAVED: data/User_Regulations_EN.txt (152,019 chars)
+  → 27 pages translated
+
+======================================================================
+TRANSLATING: Terms and Conditions
+======================================================================
+Total pages: 16
+
+Page 1/16... ✓ (4454 chars)
+Page 2/16... ✓ (3006 chars)
+Page 3/16... ✓ (5909 chars)
+Page 4/16... ✓ (5232 chars)
+Page 5/16... ✓ (4190 chars)
+Page 6/16... ✓ (4820 chars)
+Page 7/16... ✓ (2725 chars)
+Page 8/16... ✓ (4525 chars)
+Page 9/16... ✓ (4967 chars)
+Page 10/16... ✓ (3449 chars)
+Page 11/16... ✓ (4542 chars)
+Page 12/16... ✓ (5421 chars)
+Page 13/16... ✓ (5298 chars)
+Page 14/16... ✓ (3838 chars)
+Page 15/16... ✓ (3776 chars)
+Page 16/16... ✓ (1496 chars)
+
+✓ SAVED: data/Terms_and_Conditions_EN.txt (67,925 chars)
+  → 16 pages translated
+
+======================================================================
+TRANSLATION COMPLETE!
+======================================================================
+Total pages translated: 44
+
+Next step: Rebuild vector database with English documents

@@ -1,0 +1,74 @@
+nohup: ignoring input
+Starting PDF Translation with Google Translate (via deep-translator)
+This will take approximately 5-10 minutes...
+
+
+======================================================================
+Translating: data/User_Regulations_EN.txt
+======================================================================
+
+Chunk 1/29... ✓ (4472 chars)
+Chunk 2/29... ✓ (4769 chars)
+Chunk 3/29... ✓ (4515 chars)
+Chunk 4/29... ✓ (4779 chars)
+Chunk 5/29... ✓ (4795 chars)
+Chunk 6/29... ✓ (4714 chars)
+Chunk 7/29... ✓ (4708 chars)
+Chunk 8/29... ✓ (4895 chars)
+Chunk 9/29... ✓ (4794 chars)
+Chunk 10/29... ✓ (4700 chars)
+Chunk 11/29... ✓ (4645 chars)
+Chunk 12/29... ✓ (5115 chars)
+Chunk 13/29... ✓ (6019 chars)
+Chunk 14/29... ✓ (6004 chars)
+Chunk 15/29... ✓ (4956 chars)
+Chunk 16/29... ✓ (4621 chars)
+Chunk 17/29... ✓ (4605 chars)
+Chunk 18/29... ✓ (4598 chars)
+Chunk 19/29... ✓ (4542 chars)
+Chunk 20/29... ✓ (4533 chars)
+Chunk 21/29... ✓ (4554 chars)
+Chunk 22/29... ✓ (4555 chars)
+Chunk 23/29... ✓ (4554 chars)
+Chunk 24/29... ✓ (4556 chars)
+Chunk 25/29... ✓ (4655 chars)
+Chunk 26/29... ✓ (4755 chars)
+Chunk 27/29... ✓ (4418 chars)
+Chunk 28/29... ✓ (4664 chars)
+Chunk 29/29... ✓ (3604 chars)
+
+✓ SAVED: data/User_Regulations_EN_TRANSLATED.txt (137,094 chars)
+======================================================================
+
+
+======================================================================
+Translating: data/Terms_and_Conditions_EN.txt
+======================================================================
+
+Chunk 1/13... ERROR: HTTPSConnectionPool(host='translate.google.com', port=443): Read timed out. (read timeout=None)
+Chunk 2/13... ✓ (4711 chars)
+Chunk 3/13... ✓ (4370 chars)
+Chunk 4/13... ✓ (4793 chars)
+Chunk 5/13... ✓ (4708 chars)
+Chunk 6/13... ✓ (4662 chars)
+Chunk 7/13... ✓ (4618 chars)
+Chunk 8/13... ✓ (4818 chars)
+Chunk 9/13... ✓ (4935 chars)
+Chunk 10/13... ✓ (4061 chars)
+Chunk 11/13... ✓ (4313 chars)
+Chunk 12/13... ✓ (4374 chars)
+Chunk 13/13... ✓ (1223 chars)
+
+✓ SAVED: data/Terms_and_Conditions_EN_TRANSLATED.txt (51,710 chars)
+======================================================================
+
+
+======================================================================
+TRANSLATION COMPLETE!
+======================================================================
+
+Translated files:
+  - data/User_Regulations_EN_TRANSLATED.txt
+  - data/Terms_and_Conditions_EN_TRANSLATED.txt
+
+Next step: Rebuild vector database with English documents
