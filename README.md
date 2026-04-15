@@ -41,7 +41,7 @@ The app opens automatically at `http://localhost:8501`
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 ### Running Evaluation
 
@@ -97,7 +97,7 @@ Results by Category:
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 ### 1. Hallucination Prevention
 
@@ -141,7 +141,7 @@ Results by Category:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Manual Testing
 
@@ -178,7 +178,7 @@ python llm_handler.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 OMINIMO_chatbot/
@@ -206,7 +206,7 @@ OMINIMO_chatbot/
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 Environment variables in `.env`:
 
@@ -226,7 +226,7 @@ TOP_K_RESULTS=5
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 ### Proposed Enhancements
 
@@ -272,7 +272,7 @@ TOP_K_RESULTS=5
 
 ---
 
-## 🎓 Technical Highlights
+## Technical Highlights
 
 ### Why This Approach?
 
